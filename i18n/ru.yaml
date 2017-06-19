@@ -3,7 +3,7 @@
   translation: "О проекте"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: update translation
+  translation: "Скачать"
 
 - id: title_faq
   translation: "FAQ" # TODO: i18n: is this translation correct?
@@ -71,10 +71,10 @@
   translation: "Адрес"
 
 - id: footer_like
-  translation: "Like us" # TODO: i18n: translate this.
+  translation: "Лайкнуть" # TODO: i18n: translate this.
 
 - id: footer_follow
-  translation: "Follow us" # TODO: i18n: translate this.
+  translation: "Подписаться"
 
 
 # URL: /about/index.html
@@ -134,10 +134,10 @@
   translation: "Июнь 2016: Версия 1 Sia"
 
 - id: milestones_exchanges
-  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
+  translation: "Июль 2016: Ввод Sia на Poloniex, YUNBI, Bitsquare, и ShapeShift"
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
+  translation: "Август 2016: Nebulous получает $750k для Sia"
 
 
 # URL: /apps/index.html
@@ -149,7 +149,7 @@
   translation: "Sia-UI (LTS)"
 
 - id: apps_uisubheader
-  translation: "For users" # TODO: translate
+  translation: "Для пользователей"
 
 - id: apps_daemonheader
   translation: "Sia Daemon"
@@ -158,20 +158,20 @@
   translation: "Sia Daemon (LTS)"
 
 - id: apps_daemonsubheader
-  translation: "For developers" # TODO: translate
+  translation: "Для разработчиков"
 
 - id: apps_minerheader
-  translation: "Miners" # TODO: translate
+  translation: "Майнеры"
 
 ### miner ###
 - id: apps_download
   translation: "Скачать"
 
 - id: apps_miner
-  translation: "майнер"
+  translation: "Майнер"
 
 - id: apps_miner1
-  translation: "The official GPU miner" # TODO: translate
+  translation: "Официальный GPU майнер"
 
 - id: apps_altminer
   translation: "Альтернативный майнер"
@@ -180,7 +180,7 @@
   translation: "GPU майнер для Sia на Go"
 
 - id: apps_sourcecode
-  translation: "Source code on GitHub"
+  translation: "Исходный код на GitHub"
 
 ### built on sia ###
 - id: apps_builtheader
@@ -193,16 +193,16 @@
   translation: "Обозреватель блоков Sia"
 
 - id: apps_minebox
-  translation: "Next generation NAS powered by Sia" # TODO: translate
+  translation: "NAS следующего поколения, работающий на Sia"
 
 - id: apps_siacluster
-  translation: "Data farm monitoring and management tool for Sia" # TODO: translate
+  translation: "Инструмент для мониторинга и управления фермами данных"
 
 - id: apps_gnomeshell
-  translation: "Sia Cloud Storage Extension for GNOME Shell" # TODO: translate
+  translation: "Расширение для GNOME Shell для облачного хранения через Sia"
 
 - id: apps_siapulse
-  translation: "Analytics tool for Sia" # TODO: translate
+  translation: "Инструмент для аналиитики Sia"
 
 
 # URL: /faq.html
@@ -482,6 +482,9 @@
 - id: getstarted_storestep3
   translation: "Храните ваши файлы" # TODO: update translation
 
+- id: getstarted_storestep4
+  translation: "Следуйте <a href=\"https://blog.sia.tech/getting-started-with-private-decentralized-cloud-storage-c9565dc8c854\">инструкции по хранению</a>"
+
 ### farm ###
 - id: getstarted_farmiconh
   translation: "Хостинг" # TODO: update translation
@@ -499,10 +502,10 @@
   translation: "Предложить оферту для хранения данных" # TODO: update translation
 
 - id: getstarted_farmstep3
-  translation: "Получить Сиакойнс файловыми контрактами" # TODO: update translation
+  translation: "Получить Саякоины файловыми контрактами" # TODO: update translation
 
 - id: getstarted_farmstep4
-  translation: "Follow the <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">hosting guide</a>" # TODO: translate this
+  translation: "Следуйте <a href=\"https://blog.sia.tech/how-to-run-a-host-on-sia-2159ebc4725\">инструкции по хостингу</a>"
 
 ### mine ###
 - id: getstarted_mineiconh
@@ -546,4 +549,4 @@
   translation: "Используйте Sia для ваших приложений" # TODO: update translation
 
 - id: getstarted_developstep5
-  translation: "Use Sia as your storage backend" # TODO: update translation
+  translation: "Используйте Sia как хранилище для вашего бэкенда" # TODO: update translation
